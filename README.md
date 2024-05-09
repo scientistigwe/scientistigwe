@@ -110,8 +110,8 @@
 
 <p align="center">
 <a href="https://github.com/scientistigwe">
-<img  src="https://github-readme-stats.vercel.app/api?username=scientistigwe&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="srisatyalokesh" height=150px /><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=scientistigwe&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="srisatyalokesh" height=150px/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scientistigwe&theme=nightowl&hide_border=true" alt="srisatyalokesh"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=scientistigwe&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="scientistigwe" height=150px /><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=scientistigwe&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="scientistigwe" height=150px/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scientistigwe&theme=nightowl&hide_border=true" alt="scientistigwe"/>
 </a>
 </p>
 <hr>
