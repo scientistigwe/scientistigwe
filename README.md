@@ -32,6 +32,8 @@
 
 - 📄 Chekout my Resume here - [My Resume](https://scientistigwe.github.io/Personal-Profile/#)
 
+<hr>
+
 ## Creation 👨‍💻
 
 ### 👨‍💻 Portfolio
@@ -103,15 +105,15 @@
 
 ---
 
-### :fire: ⚙️ &nbsp;GitHub Analytics
+### :fire:&nbsp;GitHub Analytics ⚙️
 
 <p align="center">
-<a href="https://github.com/SriSatyaLokesh">
+<a href="https://github.com/scientistigwe">
 <img  src="https://github-readme-stats.vercel.app/api?username=scientistigwe&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="srisatyalokesh" height=150px /><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=scientistigwe&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="srisatyalokesh" height=150px/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=scientistigwe&theme=nightowl&hide_border=true" alt="srisatyalokesh"/>
 </a>
 </p>
-
+<hr>
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
@@ -121,6 +123,12 @@
 <a href="https://github.com/scientistigwe"><img src="https://img.shields.io/badge/-Github-E1306C?style=flat&logo=Github&logoColor=white"/></a><a href="https://twitter.com/ScientistIgwe_"><img src="https://img.shields.io/badge/-Twitter-42C3F7?style=flat&logo=twitter&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/profile/scientistigwe/"><img src="https://img.shields.io/badge/-Hackerrank-32CD30?style=flat&logo=hackerrank&logoColor=white"/></a>
 <a href="https://clubhouse.com/@scientistigwe/"><img src="https://img.shields.io/badge/-Clubhouse-B655C8?style=flat&logo=clubhouse&logoColor=white"/></a>
+</p>
+<hr>
+### 🤖 Contribution Graph 
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=scientistigwe&theme=react-dark&hide_border=true" alt="scientistigwe"/>
 </p>
 
 ### Thanks for Visiting my GitHub Profile!
