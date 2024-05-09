@@ -39,6 +39,7 @@
 [Chibueze C. Igwe - Portfolio](https://scientistigwe.github.io/Personal-Profile/) ,
 </> and Crafted with 💛 by Chibueze C. Igwe
 
+<img id="optionalstuff" alt="Coding" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width=400px align="right"/>
 ---
 
 ### :hammer_and_wrench: Tech Stack :
@@ -106,8 +107,8 @@
 
 <p align="center">
 <a href="https://github.com/SriSatyaLokesh">
-<img  src="https://github-readme-stats.vercel.app/api?username=scientistigwe&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="srisatyalokesh" height=150px />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scientistigwe&theme=nightowl&hide_border=true" alt="srisatyalokesh"/><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=scientistigwe&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="srisatyalokesh" height=150px/>
+<img  src="https://github-readme-stats.vercel.app/api?username=scientistigwe&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="srisatyalokesh" height=150px /><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=scientistigwe&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="srisatyalokesh" height=150px/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scientistigwe&theme=nightowl&hide_border=true" alt="srisatyalokesh"/>
 </a>
 </p>
 
