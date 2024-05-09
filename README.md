@@ -42,6 +42,7 @@
 </> and Crafted with 💛 by Chibueze C. Igwe
 
 <img id="optionalstuff" alt="Coding" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width=400px align="right"/>
+
 ---
 
 ### :hammer_and_wrench: Tech Stack :
@@ -114,6 +115,7 @@
 </a>
 </p>
 <hr>
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
@@ -124,8 +126,12 @@
 <a href="https://www.hackerrank.com/profile/scientistigwe/"><img src="https://img.shields.io/badge/-Hackerrank-32CD30?style=flat&logo=hackerrank&logoColor=white"/></a>
 <a href="https://clubhouse.com/@scientistigwe/"><img src="https://img.shields.io/badge/-Clubhouse-B655C8?style=flat&logo=clubhouse&logoColor=white"/></a>
 </p>
+
 <hr>
+
 ### 🤖 Contribution Graph 
+
+<br>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=scientistigwe&theme=react-dark&hide_border=true" alt="scientistigwe"/>
