@@ -20,7 +20,7 @@
 
 ### :man_technologist: About Me :
 
-- 🔭 I’m currently working on [RealFlow](https://github.com/scientistigwe/RealFlow-Platform) and [200 Days Coding Challenge](https://github.com/scientistigwe/200-days-of-code-100-Projects-In-200-Days)
+- 🔭 I’m currently working on [Project RealFlow](https://github.com/scientistigwe/RealFlow-Platform) and [200 Days Coding Challenge](https://github.com/scientistigwe/200-days-of-code-100-Projects-In-200-Days)
 
 - 🌱 I’m currently learning **Django, Flask, REACT and other skills.**
 
