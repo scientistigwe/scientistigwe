@@ -26,7 +26,7 @@
 
 - 👨‍💻 All of my projects are available at [Chibueze C. Igwe's Profile](https://scientistigwe.github.io/Personal-Profile/)
 
-- 💬 Ask me about **Ideation, JavaScript, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Python, SQL, Data Analysis <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdsamhvZmw5NjdtaDZrdTI1OGtyOGRzeWtsa3M2NWZ1bnhoYTVkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dtB7kgF86VwZWY5Iee/giphy.gif" width="25" height="25"> and Visualisation **
+- 💬 Ask me about **Ideation, JavaScript, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Python, SQL, Data Analysis <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdsamhvZmw5NjdtaDZrdTI1OGtyOGRzeWtsa3M2NWZ1bnhoYTVkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dtB7kgF86VwZWY5Iee/giphy.gif" width="25" height="25"> and Visualisation**
 
 - :zap: In my free time, I tour the world via road trips, one place at a time.
 
