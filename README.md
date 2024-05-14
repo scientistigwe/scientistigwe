@@ -56,14 +56,14 @@
 
 #### JS Framework/Library
 
-![JQUERY](https://img.shields.io/badge/-JQUERY-000?style=for-the-badge&logo=jquery)
-![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
+<!--![JQUERY](https://img.shields.io/badge/-JQUERY-000?style=for-the-badge&logo=jquery)-->
+<!--![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)-->
 ![Angular](https://img.shields.io/badge/-AngularJS-000?style=for-the-badge&logo=angular)
 ![ChartJS](https://img.shields.io/badge/-CHART.JS-000?style=for-the-badge&logo=chart.js)
 
 #### CSS Framework/Library
 
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
+<!--![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)-->
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
 
 #### Design/Visualization Tools
@@ -80,8 +80,8 @@
 
 #### Backend
 
-![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
-![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
+<!--![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)-->
+<!--![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)-->
 ![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/-FLASK-000?style=for-the-badge&logo=flask)
 
@@ -93,7 +93,7 @@
 #### CI/CD
 
 ![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
-![Jenkins](https://img.shields.io/badge/-jenkins-000?style=for-the-badge&logo=jenkins)
+<!--![Jenkins](https://img.shields.io/badge/-jenkins-000?style=for-the-badge&logo=jenkins)-->
 
 #### Package Manager
 
