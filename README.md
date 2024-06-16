@@ -82,7 +82,7 @@
 
 <!--![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)-->
 <!--![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)-->
-![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)
+![FAST API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/-FLASK-000?style=for-the-badge&logo=flask)
 
 #### Web Hosting
