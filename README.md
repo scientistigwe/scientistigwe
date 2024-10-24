@@ -56,9 +56,7 @@
 
 #### JS Framework/Library
 
-<!--![JQUERY](https://img.shields.io/badge/-JQUERY-000?style=for-the-badge&logo=jquery)-->
-<!--![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)-->
-![Angular](https://img.shields.io/badge/-AngularJS-000?style=for-the-badge&logo=angular)
+![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
 ![ChartJS](https://img.shields.io/badge/-CHART.JS-000?style=for-the-badge&logo=chart.js)
 
 #### CSS Framework/Library
@@ -77,12 +75,13 @@
 
 ![MYSQL](https://img.shields.io/badge/-MYSQL-000?style=for-the-badge&logo=mysql)
 ![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-000?style=for-the-badge&logo=postgresql)
+![MONGODB](https://img.shields.io/badge/-MONGODB-000?style=for-the-badge&logo=mongodb)
 
 #### Backend
 
 <!--![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)-->
-<!--![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)-->
-![FAST API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)
+[DJANGO](https://img.shields.io/badge/-DJANGO-000?style=for-the-badge&logo=django)
+![FAST API](https://img.shields.io/badge/-FASTAPI-000?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/-FLASK-000?style=for-the-badge&logo=flask)
 
 #### Web Hosting
