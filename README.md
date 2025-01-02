@@ -30,7 +30,7 @@
 
 - :zap: In my free time, I tour the world via road trips, one place at a time.
 
-- 📄 Chekout my Resume here - [My Resume](https://scientistigwe.github.io/Personal-Profile/#)
+- 📄 Chekout my Resume here - [My Resume](https://scientistigwe.github.io/Personal-Profilexxx/#)
 
 <hr>
 
